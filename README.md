@@ -43,4 +43,4 @@ if __name__ == "__main__" :
 >-Y por ultimo lo ejecuté corriendo python en la carpeta donde esta guardado el archivo desde
 >el bash de pyhton
 
-#NICOLAS RAMIREZ RODRIGUEZ 1000506513
+# NICOLAS RAMIREZ RODRIGUEZ 1000506513
