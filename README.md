@@ -24,8 +24,7 @@ if __name__ == "__main__" :
   Estos fueron mis resultados: 
 
 >-Primero cree el archhivo en lenguaje python en vs code y
-
-posteriormente escribi el código y lo ejecute tal cual como nos indicó el profe Felipe:
+>posteriormente escribi el código y lo ejecute tal cual como nos indicó el profe Felipe:
 
 ============================================================
 
@@ -44,7 +43,6 @@ posteriormente escribi el código y lo ejecute tal cual como nos indicó el prof
 ============================================================
 
 >Y por ultimo lo ejecuté corriendo python en la carpeta donde esta guardado el archivo desde
-
-el bashh de pyhton
+>el bash de pyhton
 
 #NICOLAS RAMIREZ RODRIGUEZ 1000506513
