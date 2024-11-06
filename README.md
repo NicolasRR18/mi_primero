@@ -5,8 +5,9 @@
 El objetivo era resolver el reto 2, el cual consistia en
 realizar un código en lenguaje python, ejecutarlo en
 Visual Studio code, en el bash de git y escribirlo
+o editarlo en bloc de notas y 
 
-o editarlo en bloc de notas y ejecutarlo en la terminal
+ejecutarlo en la terminal
 entonces, realicé este codigo: 
 
 ============================================================
